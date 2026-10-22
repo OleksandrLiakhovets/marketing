@@ -32,6 +32,7 @@ e-commerce:
     - shopsysframework
     - uvdesk
     - QloApps
+    - symfony-ecommerce
 framework:
     - laravel
     - symfonyfs

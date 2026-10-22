@@ -1,0 +1,10 @@
+name: Symfony Ecommerce LuxSite
+url: https://github.com/luxsite-agency/symfony-ecommerce
+dependencies:
+    - github@luxsite-agency/symfony-ecommerce
+description: |
+    Symfony Ecommerce LuxSite is an open-source multi-store ecommerce engine
+    built on the Symfony full stack and EasyAdmin. One engine serves several
+    shops from store packs (themes, content, settings), with catalog import,
+    an MCP server for AI agents and tooling to deploy, back up and check
+    every store.
